@@ -1,10 +1,10 @@
 {
  "spf": [
-  "/forecast/Germany_SPF_2026-02-10_2.csv",
-  "/forecast/Germany_SPF_2026-02-10_3.csv"
+  "/forecast/Germany_SPF_2026-02-10_3.csv",
+  "/forecast/Germany_SPF_2026-02-10_4.csv"
  ],
  "wpf": [
-  "/forecast/Germany_WPF_2026-02-10_2.csv",
-  "/forecast/Germany_WPF_2026-02-10_3.csv"
+  "/forecast/Germany_WPF_2026-02-10_3.csv",
+  "/forecast/Germany_WPF_2026-02-10_4.csv"
  ]
 }
